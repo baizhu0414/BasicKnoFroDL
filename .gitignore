@@ -1,5 +1,5 @@
-./AI01-MNISTClassification/data/
-./AI02-CNN/test/
-./AI02-CNN/train/
-*.pth
-
+.vscode/
+AI01-MNISTClassification/data/
+AI02-CNN/test/
+AI02-CNN/train/
+__pycache__/
