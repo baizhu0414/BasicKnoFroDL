@@ -1,5 +1,4 @@
 .vscode/
 AI01-MNISTClassification/data/
-AI02-CNN/test/
-AI02-CNN/train/
+AI02-CNN/data/
 __pycache__/
