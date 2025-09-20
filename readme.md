@@ -8,3 +8,4 @@
 
 4. AI04-论文&实战
     - Transformer
+    - Diffusion实现
